@@ -1,0 +1,1 @@
+information with regards to using Spritesheet.png with Tiled, Tile width/height is 21px with a 2px margin and 2px spacing.
